@@ -1,0 +1,51 @@
+
+Name - Rahul verma 
+Date-29/11/2023
+Task =>
+
+1. create SingIn funtionality with otp send in email in frontend
+2. create Otp verification funtionality when user try to login in frontend
+3. create otp expiration funtionality in frontend
+4. apply Success toster when user successfully added money in his wallet 
+5. apply trasaction Toster when user failed to add money
+6. create send money successfully  from wallet with current balance status and sender name and receiver name and sending amount
+7. create ShopNow page with model in frontend
+
+------------------------------------******---------------------------------*****-----------------------------*****----------------
+
+Name - Rahul verma 
+Date-30/11/2023
+Task =>
+
+1. create Product table and product API=>createProduct, getAllProduct, getproductByID,productUpdate, productSearch, productDelete, productImage Upload
+2. create Product Rating and product Rating Api => addProductRating, getProductRatingByProductId,Update Rating, deleteRating
+3. Create Category table and catogory APi=> add category, getallCAtegory, getCategoryByID, updateCategory, deleteCategory, getCategoryByProductID
+4. create order table(in process)
+
+------------------------------------******---------------------------------*****-----------------------------*****----------------
+
+
+Name - Rahul verma 
+Date-01/11/2023
+Task =>
+
+1. create Order table and order API=> createOrder, getAllOrder, getOrderByOrderId, changeOrderStatus, getOrderByUserId, deleteOrderByOrderId.
+2. create order_table and order Details api=> create order deails , get all order details,
+3. create cart table and cart api =>add to cart, getCartByuserID, updateCart, RemoveCart
+4. manage Order place api with multiple order
+
+------------------------------------******---------------------------------*****-----------------------------*****----------------
+
+Name - Rahul verma 
+Date-02/11/2023
+Task =>
+
+1. Manage order place Api with order details 
+2. create Order View   from order details table and left join product table and user table and order table.
+3. create Product Rating View   from Review Rating table and left join product table  
+4. create Product Rating View By user   from Review Rating table and left join product table and user table 
+5. create cart view  from cart table and left join product table and user table
+6. Review and manage cart update API and validate if product qty more than cart qty
+7. create Product View from Product table and category table 
+8. Intigrate api of all product details in frontend.
+9. Design add product model
